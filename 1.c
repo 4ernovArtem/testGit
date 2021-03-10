@@ -21,5 +21,6 @@ return y;
 
 void main()   // define the main function  
 {  
+    printf("ohooh");
     printf("%d",300);
 }  
